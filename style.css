@@ -20,5 +20,30 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
-    
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to bottom, #ebbc80 50%, #e2932b);
+
+}
+.cat2{
+    background-image: linear-gradient( to bottom, #ff589b 50%, #ff136f);
+
+}
+.cat3{
+    background-image: linear-gradient( to bottom, #7467ee 50%, #3713ff);
+
+}
+.categories h1{
+    color: #ffffff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
 }
